@@ -1,2 +1,2 @@
-# CYT-245-Seneca-Polytechnic
-This repository contains work from the Threat Intelligence course, where I explored various frameworks, including NIST and MITRE. It showcases research and practical implementations related to cybersecurity, focusing on threat identification, analysis, and mitigation strategies.
+# Threat Intelligence
+This repository is for the Cybersecurity and Threat Management program from Seneca Polytechnic. It focuses on the course CYT-245 and includes all the assignments and projects completed throughout the semester.
